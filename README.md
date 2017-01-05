@@ -4,6 +4,8 @@ This image is based on https://hub.docker.com/_/mysql/ and currently support:
 
  - MySQL 5.7
 
+You can use the docker hub image `cyprien/mysql-tls:5.7`. See https://hub.docker.com/r/cyprien/mysql-tls/.
+
 ## Configuration & CA
 
 Enviroment variables and configuration files from https://hub.docker.com/_/mysql/ still apply.
